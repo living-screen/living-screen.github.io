@@ -7,3 +7,13 @@
 #
 layout: home
 ---
+# What are the Sustainability Targets at USYD?
+- Net zero emissions by 2030
+- Zero waste to landfill by 2030
+- Reduce potable water use by 30% per person
+- Source 100% of electricity from renewable sources
+- Minimum 5 star, Green Star rating for new buildings, and 4 star, Green Star for all complete building refurbishments
+- Introduction of sustainable procurement practices to reduce waste and increase social sustainability
+
+
+Check out these project to see what The University of Sydney is doing to become more sustainable:
