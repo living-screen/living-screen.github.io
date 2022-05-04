@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Computational Design for Myco-materials"
+title: "Designing with Myco-materials"
 categories: examples
 ---
 
