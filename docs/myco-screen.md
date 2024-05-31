@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About the Living Screen
+title: Myco Screen
 permalink: /myco-screen/
 ---
 
-The answer is mycelium.
+The answer is *mycelium*!
 
-
-This page will be populated before the publication of the paper...
-
+This page will be populated before the publication of the paper, but after review, for anonymity. 
 
 
 With special thanks to the team from Anon!!!

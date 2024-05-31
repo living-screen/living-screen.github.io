@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About the Living Screen
-permalink: /about/
+title: Living Screen
+permalink: /living-screen/
 ---
 Researchers:
 - [Dr Phillip Gough][pjg-apo]
 - [Dr Callum Parker][cp-apo]
 - Gabrielle Hong
 
-The evolution of technology has changed the way public displays look and are used and it has diversified how we can create meaningful and engaging experiences for people in the public. As a result, we also need to be mindful of the impact technology can have on the environment and ensure we aren’t only thinking of its short-term benefits (public engagement) but also the long term effects. That is, pollution of our public spaces such as e-waste. Furthermore, living in an environmentally-conscious modern world, designers and scientists are joining forces to use living media interfaces as they are a great sustainable alternative. 
+The evolution of technology has changed the way public displays look and are used, and it has diversified how we can create meaningful and engaging experiences for people in the public. As a result, we also need to be mindful of the impact technology can have on the environment and ensure we aren’t only thinking of its short-term benefits (public engagement) but also the long term effects. That is, pollution of our public spaces such as e-waste. Furthermore, living in an environmentally-conscious world, designers and scientists are joining forces to create living media interfaces as they are a great sustainable alternative. 
 
 We can see public displays in a range of places
 
